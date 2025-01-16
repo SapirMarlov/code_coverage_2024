@@ -85,7 +85,7 @@
                         <phase>test</phase>
                         <goals><goal>report</goal></goals>
                     </execution>
-                </executions>
+                </executions>  
             </plugin>
       </plugins>
   </build> 
